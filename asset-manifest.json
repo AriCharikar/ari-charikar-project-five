@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ari-charikar-project-five/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ari-charikar-project-five/static/js/main.4db42210.chunk.js",
+    "main.js.map": "/ari-charikar-project-five/static/js/main.4db42210.chunk.js.map",
+    "runtime-main.js": "/ari-charikar-project-five/static/js/runtime-main.cdd1847e.js",
+    "runtime-main.js.map": "/ari-charikar-project-five/static/js/runtime-main.cdd1847e.js.map",
+    "static/js/2.0995c3be.chunk.js": "/ari-charikar-project-five/static/js/2.0995c3be.chunk.js",
+    "static/js/2.0995c3be.chunk.js.map": "/ari-charikar-project-five/static/js/2.0995c3be.chunk.js.map",
+    "index.html": "/ari-charikar-project-five/index.html",
+    "precache-manifest.ab54b28713ce99f74e456aa786d0686d.js": "/ari-charikar-project-five/precache-manifest.ab54b28713ce99f74e456aa786d0686d.js",
+    "service-worker.js": "/ari-charikar-project-five/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ari-charikar-project-five/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0995c3be.chunk.js.LICENSE.txt": "/ari-charikar-project-five/static/js/2.0995c3be.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ari-charikar-project-five/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd1847e.js",
+    "static/js/2.0995c3be.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4db42210.chunk.js"
+  ]
+}
