@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8ae22653f8ee389b3ef8f658a88edbf",
+    "revision": "16f55f0a8995f7236d3aada3d7de68a4",
     "url": "/ari-charikar-project-five/index.html"
   },
   {
-    "revision": "23baaf5f594d6f1a72b4",
-    "url": "/ari-charikar-project-five/static/css/main.8225f01e.chunk.css"
+    "revision": "269359fa7469f9ead2f2",
+    "url": "/ari-charikar-project-five/static/css/main.bf0e06a6.chunk.css"
   },
   {
     "revision": "16e4c54611a778436bdf",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ari-charikar-project-five/static/js/2.222fb509.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "23baaf5f594d6f1a72b4",
+    "revision": "269359fa7469f9ead2f2",
     "url": "/ari-charikar-project-five/static/js/main.80ebc3e7.chunk.js"
   },
   {
