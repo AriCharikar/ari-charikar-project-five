@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ari-charikar-project-five/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ari-charikar-project-five/static/js/main.4db42210.chunk.js",
-    "main.js.map": "/ari-charikar-project-five/static/js/main.4db42210.chunk.js.map",
+    "main.css": "/ari-charikar-project-five/static/css/main.288928e2.chunk.css",
+    "main.js": "/ari-charikar-project-five/static/js/main.87ed5ad2.chunk.js",
+    "main.js.map": "/ari-charikar-project-five/static/js/main.87ed5ad2.chunk.js.map",
     "runtime-main.js": "/ari-charikar-project-five/static/js/runtime-main.cdd1847e.js",
     "runtime-main.js.map": "/ari-charikar-project-five/static/js/runtime-main.cdd1847e.js.map",
-    "static/js/2.0995c3be.chunk.js": "/ari-charikar-project-five/static/js/2.0995c3be.chunk.js",
-    "static/js/2.0995c3be.chunk.js.map": "/ari-charikar-project-five/static/js/2.0995c3be.chunk.js.map",
+    "static/js/2.222fb509.chunk.js": "/ari-charikar-project-five/static/js/2.222fb509.chunk.js",
+    "static/js/2.222fb509.chunk.js.map": "/ari-charikar-project-five/static/js/2.222fb509.chunk.js.map",
     "index.html": "/ari-charikar-project-five/index.html",
-    "precache-manifest.ab54b28713ce99f74e456aa786d0686d.js": "/ari-charikar-project-five/precache-manifest.ab54b28713ce99f74e456aa786d0686d.js",
+    "precache-manifest.93364b6f1c0834864a8e6933c2c9b969.js": "/ari-charikar-project-five/precache-manifest.93364b6f1c0834864a8e6933c2c9b969.js",
     "service-worker.js": "/ari-charikar-project-five/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ari-charikar-project-five/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0995c3be.chunk.js.LICENSE.txt": "/ari-charikar-project-five/static/js/2.0995c3be.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ari-charikar-project-five/static/media/logo.5d5d9eef.svg"
+    "static/css/main.288928e2.chunk.css.map": "/ari-charikar-project-five/static/css/main.288928e2.chunk.css.map",
+    "static/js/2.222fb509.chunk.js.LICENSE.txt": "/ari-charikar-project-five/static/js/2.222fb509.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/ari-charikar-project-five/static/media/backgroundImage.ea815771.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.cdd1847e.js",
-    "static/js/2.0995c3be.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4db42210.chunk.js"
+    "static/js/2.222fb509.chunk.js",
+    "static/css/main.288928e2.chunk.css",
+    "static/js/main.87ed5ad2.chunk.js"
   ]
 }

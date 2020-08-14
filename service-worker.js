@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ari-charikar-project-five/precache-manifest.ab54b28713ce99f74e456aa786d0686d.js"
+  "/ari-charikar-project-five/precache-manifest.93364b6f1c0834864a8e6933c2c9b969.js"
 );
 
 self.addEventListener('message', (event) => {
