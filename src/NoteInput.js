@@ -32,6 +32,8 @@ export class NoteInput extends Component {
     createNote() {
         if (this.state.title === '' && this.state.note === '') {
             alert(`Aren't you missing something?`);
+        } else if (this.state.title === '' || this.state.note === '') {
+            alert('Fill out both title and text before submitting!');
         } else {
             firebase.database().ref('notes').push({
                 title: this.state.title,
